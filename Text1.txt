@@ -1,3 +1,7 @@
 My name is text1.
+<<<<<<< HEAD
 I am modified
+=======
+I am modified.
+>>>>>>> Branch-1
 

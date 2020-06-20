@@ -1,3 +1,4 @@
 I am Text2.
 I am modified.
 I am modified in github.
+I am modified local.

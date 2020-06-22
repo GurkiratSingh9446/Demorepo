@@ -1,3 +1,4 @@
 My name is text1.
 I am modified
 
+I am line 4.

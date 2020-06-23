@@ -1,0 +1,6 @@
+text5 created.
+It is  modified.
+<<<<<<< HEAD
+=======
+i am here.
+>>>>>>> 1cc30b566a056a8abd0b83c06d565fd10c35a72c
